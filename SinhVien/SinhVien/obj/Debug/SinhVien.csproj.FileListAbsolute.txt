@@ -1,0 +1,15 @@
+E:\Lab5\SinhVien\SinhVien\obj\Debug\SinhVien.csproj.AssemblyReference.cache
+E:\Lab5\SinhVien\SinhVien\obj\Debug\SinhVien.Form1.resources
+E:\Lab5\SinhVien\SinhVien\obj\Debug\SinhVien.Properties.Resources.resources
+E:\Lab5\SinhVien\SinhVien\obj\Debug\SinhVien.csproj.GenerateResource.cache
+E:\Lab5\SinhVien\SinhVien\obj\Debug\SinhVien.csproj.CoreCompileInputs.cache
+E:\Lab5\SinhVien\SinhVien\bin\Debug\SinhVien.exe.config
+E:\Lab5\SinhVien\SinhVien\bin\Debug\SinhVien.exe
+E:\Lab5\SinhVien\SinhVien\bin\Debug\SinhVien.pdb
+E:\Lab5\SinhVien\SinhVien\bin\Debug\EntityFramework.dll
+E:\Lab5\SinhVien\SinhVien\bin\Debug\EntityFramework.SqlServer.dll
+E:\Lab5\SinhVien\SinhVien\bin\Debug\EntityFramework.xml
+E:\Lab5\SinhVien\SinhVien\bin\Debug\EntityFramework.SqlServer.xml
+E:\Lab5\SinhVien\SinhVien\obj\Debug\SinhVien.csproj.Up2Date
+E:\Lab5\SinhVien\SinhVien\obj\Debug\SinhVien.exe
+E:\Lab5\SinhVien\SinhVien\obj\Debug\SinhVien.pdb

@@ -1,0 +1,11 @@
+E:\Lab4\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.csproj.AssemblyReference.cache
+E:\Lab4\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.ListViewForm.resources
+E:\Lab4\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.NhanVienForm.resources
+E:\Lab4\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.Properties.Resources.resources
+E:\Lab4\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.csproj.GenerateResource.cache
+E:\Lab4\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.csproj.CoreCompileInputs.cache
+E:\Lab4\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\QuanLyNhanVien.exe.config
+E:\Lab4\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\QuanLyNhanVien.exe
+E:\Lab4\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\QuanLyNhanVien.pdb
+E:\Lab4\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.exe
+E:\Lab4\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.pdb

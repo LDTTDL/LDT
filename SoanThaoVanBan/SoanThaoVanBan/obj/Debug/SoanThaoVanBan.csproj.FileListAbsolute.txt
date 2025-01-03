@@ -1,0 +1,10 @@
+E:\Lab5\SoanThaoVanBan\SoanThaoVanBan\bin\Debug\SoanThaoVanBan.exe.config
+E:\Lab5\SoanThaoVanBan\SoanThaoVanBan\bin\Debug\SoanThaoVanBan.exe
+E:\Lab5\SoanThaoVanBan\SoanThaoVanBan\bin\Debug\SoanThaoVanBan.pdb
+E:\Lab5\SoanThaoVanBan\SoanThaoVanBan\obj\Debug\SoanThaoVanBan.csproj.AssemblyReference.cache
+E:\Lab5\SoanThaoVanBan\SoanThaoVanBan\obj\Debug\SoanThaoVanBan.Properties.Resources.resources
+E:\Lab5\SoanThaoVanBan\SoanThaoVanBan\obj\Debug\SoanThaoVanBan.csproj.GenerateResource.cache
+E:\Lab5\SoanThaoVanBan\SoanThaoVanBan\obj\Debug\SoanThaoVanBan.csproj.CoreCompileInputs.cache
+E:\Lab5\SoanThaoVanBan\SoanThaoVanBan\obj\Debug\SoanThaoVanBan.exe
+E:\Lab5\SoanThaoVanBan\SoanThaoVanBan\obj\Debug\SoanThaoVanBan.pdb
+E:\Lab5\SoanThaoVanBan\SoanThaoVanBan\obj\Debug\SoanThaoVanBan.SoanThao.resources
